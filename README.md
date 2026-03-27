@@ -1,1 +1,1 @@
-# Mental-Health-Tech-Survey
+# Mental Health Tech Survey
